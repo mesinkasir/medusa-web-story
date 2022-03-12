@@ -15,7 +15,7 @@ video demo :[]()
 ------
 ### Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-[Edit on StackBlitz ⚡️](https://sli.dev/new)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slidev-uq3upe?file=README.md)
 
 To start the slide show:
 
