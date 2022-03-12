@@ -10,12 +10,14 @@ digital art [https://creativebydre.vercel.app](https://creativebydre.vercel.app)
 
 documentations : []()
 
+test drive demo : [https://medousa.pages.dev/](https://medousa.pages.dev/)
+
 video demo :[]()
 
 ------
 ### Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/slidev-uq3upe?file=README.md)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/medusa)
 
 To start the slide show:
 
