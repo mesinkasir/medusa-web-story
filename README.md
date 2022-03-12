@@ -20,7 +20,7 @@ digital art [https://creativebydre.vercel.app](https://creativebydre.vercel.app)
 
 Display story the end of medousa
 
-![the end of medousa website template themes](https://blogger.googleusercontent.com/img/a/AVvXsEgqKKpaTfBKFw1DfvliKIhZ5TfovUqODeKNkSiwnAUdpFx7h0k-5j1fswDmDWBQBdc3Ley3_Nzt8xXCN7jqyTYu3998vcK66bQA0pqKv5ByYOPjpUT08Zm2F5bLjW3K2IGUNiQfvWjNIUK-BsaueHh9ysP04Ei6r9shG9-5OY7_dYRgN2e1-cJwioweiQ=s1366)
+![the end of medousa website template themes](https://blogger.googleusercontent.com/img/a/AVvXsEjQQEFr4K_Wbcq0Kn3uHKJF1QmfcpZcDmtexXlYFBG7W7Q3q_W_Mz5gzv82tPtZo5u_HDPoEmg06AVoIKhyMWQaeUfFgzP1ESSQSwELWIkr2Qwgi0cQErBjpvo_odVrYlT1v9iUfdnQ9f7Aw2mIoeTmnWH0bGgB7uHt8kEEf0eb1B9Gc38UG5w4OsU9CQ=s1366)
 
 Home welcome page
 
